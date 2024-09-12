@@ -1,0 +1,17 @@
+{
+  "triggers": [
+    {
+      "type": "Paint",
+      "properties": {
+        "targetGroupID": 1,
+        "color": {
+          "red": 255,
+          "green": 0,
+          "blue": 255
+        },
+        "duration": 10,
+        "opacity": 100
+      }
+    }
+  ]
+}
