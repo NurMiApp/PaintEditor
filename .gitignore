@@ -1,0 +1,105 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# macOS specific files
+.DS_Store
+*.app
+
+# Cache files for Sublime Text
+*.sublime-workspace
+
+# Ignore build folders
+build/
+out/
+release/
+debug/
+bin/
+obj/
+
+# Ignore platform specific build folders
+# Windows
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# macOS
+*.dSYM/
+*.dSYM.zip
+
+# Linux
+*.tar.gz
+
+# Workshop files are use-specific
+# (Add specific patterns here)
+
+# ILY VSCode
+.vscode/
+
+# Clangd index
+clangd-index/
+*.clangd
+
+# Visual Studio
+*.opendb
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.suo
+*.user
+*.userosscache
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.vsworkspace
+*.ncb
+*.sdf
+*.opensdf
+*.unsuccessfulbuild
+*.ipch
+*.VC.db
+*.VC.VC.opendb
+
+# Temporary files
+*.swp
+*~
+*.bak
+*.tmp
+*.temp
+
+# Ignore all log files
+*.log
+
+# Node modules
+node_modules/
